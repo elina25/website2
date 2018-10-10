@@ -1,0 +1,44 @@
+[08-Mar-2018 14:01:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 14:02:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 14:17:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 14:37:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 14:39:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 14:39:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 14:40:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 15:11:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 15:11:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 15:11:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6
+[08-Mar-2018 15:11:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ControllerBibliography' not found in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/panorama/public_html/website2/ajax/lists/bibliography_list.php on line 6

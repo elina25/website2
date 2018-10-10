@@ -1,0 +1,100 @@
+[22-May-2018 07:37:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'parentheses not balanced' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[22-May-2018 08:00:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(1, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[22-May-2018 08:04:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(1, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[22-May-2018 08:06:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(1, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[22-May-2018 08:15:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[22-May-2018 08:16:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[22-May-2018 08:23:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[22-May-2018 08:23:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[22-May-2018 08:23:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'empty (sub)expression' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:497
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(497): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(37): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 497
+[23-May-2018 10:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function GetPageUrl() in /home/apanarchive/public_html/website2/pagination/pagination_pages.php:14
+Stack trace:
+#0 /home/apanarchive/public_html/website2/accompanying_lists/printedDoc_search_result.php(38): include_once()
+#1 {main}
+  thrown in /home/apanarchive/public_html/website2/pagination/pagination_pages.php on line 14
+[23-May-2018 10:33:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function GetPageUrl() in /home/apanarchive/public_html/website2/pagination/pagination_pages.php:14
+Stack trace:
+#0 /home/apanarchive/public_html/website2/accompanying_lists/printedDoc_search_result.php(38): include_once()
+#1 {main}
+  thrown in /home/apanarchive/public_html/website2/pagination/pagination_pages.php on line 14
+[24-May-2018 07:12:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'parentheses not balanced' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:484
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(484): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(21): ControllerAudioVisual->getSearchAudiovisual(1, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 484
+[24-May-2018 13:53:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's'  GROUP BY ad.audioVisualID' at line 6 in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:484
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(484): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(21): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 484
+[24-May-2018 13:53:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's'  GROUP BY ad.audioVisualID' at line 6 in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:484
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(484): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(21): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 484
+[24-May-2018 13:53:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'parentheses not balanced' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:484
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(484): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(21): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 484
+[24-May-2018 13:55:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1139 Got error 'parentheses not balanced' from regexp in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php:484
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php(484): PDO->prepare('SELECT ad.audio...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/audiovisual_search_result.php(21): ControllerAudioVisual->getSearchAudiovisual(2, Array)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerAudioVisual.php on line 484
+[25-May-2018 06:44:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'InfrastructureBuildingId' in 'where clause' in /home/apanarchive/public_html/website2/controllers/ControllerPhoto.php:519
+Stack trace:
+#0 /home/apanarchive/public_html/website2/controllers/ControllerPhoto.php(519): PDO->prepare('SELECT socialRe...')
+#1 /home/apanarchive/public_html/website2/accompanying_lists/photo_search_result.php(156): ControllerPhoto->GetAllRelationsWithfriendlyNameFromPhotosToResidentialBuildingId(1849, 1)
+#2 {main}
+  thrown in /home/apanarchive/public_html/website2/controllers/ControllerPhoto.php on line 519
